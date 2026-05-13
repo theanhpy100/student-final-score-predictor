@@ -126,6 +126,4 @@ Chương trình hiển thị:
 - Hệ số R2
 - Đồ thị thể hiện mối quan hệ giữa điểm giữa kỳ và điểm cuối kỳ
 
-## Tác giả
 
-Project được thực hiện cho bài tập dự đoán điểm cuối kỳ bằng mô hình hồi quy tuyến tính.
